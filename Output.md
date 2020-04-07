@@ -11,3 +11,4 @@ The graph will connect requirements and suppliers based on the match key theme v
 ## Output view
 
 
+![image](images/SupplierMatches.png)<br>
