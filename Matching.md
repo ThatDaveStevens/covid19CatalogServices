@@ -7,8 +7,3 @@ The graph will connect requirements and suppliers based on the match key theme v
 
 ![image](images/MatchingGraph.png)<br>
 
-
-## Output view
-
-
-![image](images/SupplierMatches.png)<br>

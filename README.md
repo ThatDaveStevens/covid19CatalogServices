@@ -1,9 +1,12 @@
 # covid19 Catalog Services
-Automated Catalogue Services to match supply to demand
+Automate the assessment of service offers from suppliers to identify the correct response from the UK Government.
+
+The response could vary from `Inform the cabinet` to `advise the supplier to work with their local NHS response team`
 
 ## Problem Statement
-> The industry is experiencing in getting bonafide and important offers to help Government to the right people due to the sheer number of offers reaching them.  
+> Suppliers and individuals are offering their services in support of the COVID19 pandemic; the sheer volume of offers is almost impossible to manage for a single government department or entry point.   The high volume is impacting the means to identify where an offer meets a current urgent need, highlights a potential new area of support or is a potential distraction; thus resulting in the risk to miss a key offer in this time critical response.
 
+## The challenge
 How to bring business intelligence to help identity the right suppliers for the 1000's of requests being raised by various UK government departments.
 
 ## Personas
@@ -14,6 +17,29 @@ Government department with a clear requirement to help support the COVID19 respo
 ### Suppliers
 General suppliers of any potential services to the government.
 
+### Scoring
+
+1 - Immediate value
+2 - near term value 
+3 - mid term value 
+4 - long term value
+5 - local community value
+
+
+## Use Cases
+
+### Use Case 1
+Supplier raises a service offer<br>
+![image](images/UseCase1.png)<br>
+
+### Use Case 2
+Government department raises a service request<br>
+![image](images/UseCase2.png)<br>
+
+
+### Use Case 3
+Government department analyse service offers to identify new potential responses<br>
+![image](images/UseCase3.png)<br>
 
 ## Constraints
 Suppliers should not be constrained by a service definition or fixed placement within any catalogue of services.
@@ -23,11 +49,11 @@ UK government requirements are clearly defined.
 
 ---
 
-- [Conceptual View](conceptView.md)
 - [Architecture](architecture.md)
+- [SiteMap](siteMap.md)
 - [Datamodel](dataModel.md)
-- [Capture forms](CaptureForms.md)
-- [Matching Logic and Output](Output.md)
+- [Manual Capture forms](CaptureForms.md)
+- [Matching Logic](Matching.md)
 - [Required Skills](Skills.md)
 
 ---
