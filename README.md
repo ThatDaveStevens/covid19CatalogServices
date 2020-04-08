@@ -19,11 +19,11 @@ General suppliers of any potential services to the government.
 
 ### Scoring
 
-1 - Immediate value
-2 - near term value 
-3 - mid term value 
-4 - long term value
-5 - local community value
+1. Immediate value
+2. Near term value 
+3. Mid term value 
+4. Long term value
+5. Local community value
 
 
 ## Use Cases
