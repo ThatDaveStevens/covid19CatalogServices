@@ -2,7 +2,7 @@
 ## Technical View
 
 ### Implementation View
-![image](images/TechnicalView2.png)<br>
+![image](images/AzureServices.png)<br>
 _UK Gov restrictions may require further breakdown and separation of services_
 
 ### Expanded Conceptual View 
