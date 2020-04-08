@@ -41,11 +41,8 @@ Government department raises a service request<br>
 Government department analyse service offers to identify new potential responses<br>
 ![image](images/UseCase3.png)<br>
 
-## Constraints
-Suppliers should not be constrained by a service definition or fixed placement within any catalogue of services.
-
 ## Assumptions
-UK government requirements are clearly defined.
+UK government requirements are clearly defined, however each department should have the means to analyse all service offers to identify new areas of opportunity.
 
 ---
 
