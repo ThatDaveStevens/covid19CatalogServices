@@ -4,18 +4,19 @@ Automate the assessment of service offers from suppliers to identify the correct
 The response could vary from `Inform the cabinet` to `advise the supplier to work with their local NHS response team`
 
 ## Problem Statement
-> Suppliers and individuals are offering their services in support of the COVID19 pandemic; the sheer volume of offers is almost impossible to manage for a single government department or entry point.   The high volume is impacting the means to identify where an offer meets a current urgent need, highlights a potential new area of support or is a potential distraction; thus resulting in the risk to miss a key offer in this time critical response.
+Suppliers and individuals are offering their services in support of the COVID19 pandemic; the sheer volume of offers is almost impossible to manage for a single government department or entry point.   The high volume is impacting the means to identify where an offer meets a current urgent need, highlights a potential new area of support or is a potential distraction; thus, resulting in the risk to miss a key offer in this time critical period.
 
 ## The challenge
-How to bring business intelligence to help identity the right suppliers for the 1000's of requests being raised by various UK government departments.
+Automate the service offering submission process and bring business intelligence to help identify the right suppliers for the 1000's of requests being raised by various UK government departments.
 
 ## Personas
+
+### Suppliers
+General suppliers of any potential services to the government.
 
 ### Government department
 Government department with a clear requirement to help support the COVID19 response
 
-### Suppliers
-General suppliers of any potential services to the government.
 
 ### Scoring
 
